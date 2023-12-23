@@ -27,15 +27,15 @@
     
     // Planet data 
     var planets = [
-        { name: 'Sun', imageSrc: '../img/Sun.png', x: 380, y: 100, size: 230 },
-        { name: 'Mercury', imageSrc: '../img/Mercury.png', x: 650, y: 180, size: 80 },
-        { name: 'Venus', imageSrc: '../img/Venus.png', x: 800, y: 180, size: 80 },
-        { name: 'Earth', imageSrc: '../img/Earth.png', x: 950, y: 160, size: 120 },
-        { name: 'Mars', imageSrc: '../img/Mars.png', x: 1150, y: 180, size: 80 },
-        { name: 'Jupiter', imageSrc: '../img/Jupiter.png', x: 1300, y: 150, size: 150 },
-        { name: 'Saturn', imageSrc: '../img/Saturn.png', x: 1500, y: 120, size: 200 },
-        { name: 'Uranus', imageSrc: '../img/Uranus.png', x: 1750, y: 180, size: 80 },
-        { name: 'Neptune', imageSrc: '../img/Neptune.png', x: 1900, y: 180, size: 80 },
+        { name: 'Sun', imageSrc: 'img/Sun.png', x: 380, y: 100, size: 230 },
+        { name: 'Mercury', imageSrc: 'img/Mercury.png', x: 650, y: 180, size: 80 },
+        { name: 'Venus', imageSrc: 'img/Venus.png', x: 800, y: 180, size: 80 },
+        { name: 'Earth', imageSrc: 'img/Earth.png', x: 950, y: 160, size: 120 },
+        { name: 'Mars', imageSrc: 'img/Mars.png', x: 1150, y: 180, size: 80 },
+        { name: 'Jupiter', imageSrc: 'img/Jupiter.png', x: 1300, y: 150, size: 150 },
+        { name: 'Saturn', imageSrc: 'img/Saturn.png', x: 1500, y: 120, size: 200 },
+        { name: 'Uranus', imageSrc: 'img/Uranus.png', x: 1750, y: 180, size: 80 },
+        { name: 'Neptune', imageSrc: 'img/Neptune.png', x: 1900, y: 180, size: 80 },
     ];
 
     // Load planet images
